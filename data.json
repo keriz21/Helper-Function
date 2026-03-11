@@ -1,0 +1,192 @@
+[
+  {
+    "Seller": "Atlantic Seafood Market",
+    "Origin Amount": "320",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "320",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "320",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-13-25 09:15",
+    "Created Date": "09-13-25 09:15",
+    "Assignment Status": "100",
+    "Shipped From": "210 Water Street",
+    "Transaction ID": " New York 10038",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f101"
+    ]
+  },
+  {
+    "Seller": "Atlantic Seafood Market",
+    "Origin Amount": "140",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "140",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "140",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-13-25 09:15",
+    "Created Date": "09-13-25 09:15",
+    "Assignment Status": "100",
+    "Shipped From": "210 Water Street",
+    "Transaction ID": " New York 10038",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f102"
+    ]
+  },
+  {
+    "Seller": "Green Valley Produce",
+    "Origin Amount": "500",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "480",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "480",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-13-25 10:02",
+    "Created Date": "09-13-25 10:02",
+    "Assignment Status": "100",
+    "Shipped From": "89 Market Street",
+    "Transaction ID": " Newark 07102",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f103"
+    ]
+  },
+  {
+    "Seller": "Green Valley Produce",
+    "Origin Amount": "220",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "220",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "-",
+    "Destination Amount Unit": "-",
+    "Shipped Date": "",
+    "Received Date": "09-13-25 10:02",
+    "Created Date": "09-13-25 10:02",
+    "Assignment Status": "0",
+    "Shipped From": "89 Market Street",
+    "Transaction ID": " Newark 07102",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f104"
+    ]
+  },
+  {
+    "Seller": "Urban Fresh Grocers",
+    "Origin Amount": "275",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "275",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "275",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-12-25 16:20",
+    "Created Date": "09-12-25 16:20",
+    "Assignment Status": "100",
+    "Shipped From": "455 Hudson Street",
+    "Transaction ID": " New York 10014",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f105"
+    ]
+  },
+  {
+    "Seller": "Urban Fresh Grocers",
+    "Origin Amount": "190",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "190",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "190",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-12-25 16:20",
+    "Created Date": "09-12-25 16:20",
+    "Assignment Status": "100",
+    "Shipped From": "455 Hudson Street",
+    "Transaction ID": " New York 10014",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f106"
+    ]
+  },
+  {
+    "Seller": "Harborview Fish Co",
+    "Origin Amount": "360",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "350",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "350",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-12-25 14:48",
+    "Created Date": "09-12-25 14:48",
+    "Assignment Status": "100",
+    "Shipped From": "12 Harbor Drive",
+    "Transaction ID": " Jersey City 07305",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f107"
+    ]
+  },
+  {
+    "Seller": "Harborview Fish Co",
+    "Origin Amount": "120",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "120",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "120",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-12-25 14:48",
+    "Created Date": "09-12-25 14:48",
+    "Assignment Status": "100",
+    "Shipped From": "12 Harbor Drive",
+    "Transaction ID": " Jersey City 07305",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f108"
+    ]
+  },
+  {
+    "Seller": "Midtown Supply Hub",
+    "Origin Amount": "410",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "410",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "410",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-11-25 18:05",
+    "Created Date": "09-11-25 18:05",
+    "Assignment Status": "100",
+    "Shipped From": "620 8th Avenue",
+    "Transaction ID": " New York 10018",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f109"
+    ]
+  },
+  {
+    "Seller": "Midtown Supply Hub",
+    "Origin Amount": "95",
+    "Origin Amount Unit": "lb",
+    "Product Amount": "95",
+    "Product Amount Unit": "lb",
+    "Destination Amount": "95",
+    "Destination Amount Unit": "lb",
+    "Shipped Date": "",
+    "Received Date": "09-11-25 18:05",
+    "Created Date": "09-11-25 18:05",
+    "Assignment Status": "100",
+    "Shipped From": "620 8th Avenue",
+    "Transaction ID": " New York 10018",
+    "null": [
+      " United States",
+      "68c41001a26ed3327467f110"
+    ]
+  }
+]
